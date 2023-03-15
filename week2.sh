@@ -39,7 +39,7 @@
    39  git add test.txt
    40  git commit -m "Test file added"
    41  git init
-   42  echo "Hello, world" > hello.txt
+   42  echo "Hello world" > hello.txt
    43  ls
    44  git add hello.txt
    45  git commit -m "Add hello.txt file"
