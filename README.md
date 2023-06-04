@@ -38,5 +38,18 @@ LINUX FILE SYSTEM HIERARCHY
 
 ![image](https://github.com/Azizbek-Akhmadov/OSlab/assets/81019633/ec35096b-422a-460d-9ac1-ccb933064fce)
 
+# Week 13 
 
+ANALYZING AND STORING LOGS
+
+![image](https://github.com/Azizbek-Akhmadov/OSlab/assets/81019633/fac6688d-ac04-484a-bd0a-db388505b266)
+
+![image](https://github.com/Azizbek-Akhmadov/OSlab/assets/81019633/e0a89c8e-30fc-4331-a62a-6008d82cccbc)
+
+
+# Week 14
+
+ACCESSING LINUX FILE SYSTEMS
+
+![image](https://github.com/Azizbek-Akhmadov/OSlab/assets/81019633/ab0db545-3318-420c-81c8-336e764c066b)
 
