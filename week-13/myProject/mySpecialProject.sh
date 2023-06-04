@@ -1,9 +1,7 @@
 #!/bin/bash
 
-# Scrape content from Wikipedia and save it to a file
-curl -s "https://en.wikipedia.org/wiki/Inha_University" > inhawikipedia.txt
 
-echo "Wikipedia content scraped and saved to 'inhawikipedia.txt'."
+
 
 # Display the original file size
 original_size=$(du -sh inhawikipedia.txt | awk '{print $1}')
